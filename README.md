@@ -39,3 +39,22 @@ behind an Application Load Balancer and is monitored using CloudWatch.
 ## Output (After Deploy)
 Terraform outputs a public Application Load Balancer DNS endpoint:
 
+
+
+
+## What I Learned
+- Deploying containerized applications using AWS ECS Fargate
+- Provisioning and managing cloud infrastructure using Terraform
+- Implementing CI/CD pipelines with GitHub Actions
+- Building and managing Docker images
+- Using Amazon ECR for container image storage
+- Configuring Application Load Balancer for traffic routing
+- Monitoring applications using Amazon CloudWatch
+- Understanding an end-to-end DevOps workflow from code commit to deployment
+
+## Keywords (ATS Optimized)
+AWS, Amazon ECS, ECS Fargate, Terraform, Infrastructure as Code, CI/CD,
+GitHub Actions, Docker, Amazon ECR, CloudWatch, Application Load Balancer,
+DevOps, Cloud Deployment, Containerization, Continuous Integration,
+Continuous Deployment, Monitoring, Cloud Infrastructure
+
